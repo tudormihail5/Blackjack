@@ -22,4 +22,4 @@ The user bet £20.
 
 ![Blackjack2](https://github.com/tudormihail5/Blackjack/blob/main/Screenshot2.png)
 
-The user typed 'y' to draw another card, but then typed 'n' to stop, winning and having a total of £120.
+The user typed 'y' to draw another card, but then typed 'n' to stop, winning, and having a total of £120.
