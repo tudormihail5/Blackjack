@@ -16,4 +16,4 @@ Blackjack is a command-line Python application. It is a game where the user play
 
 I knew how to work in Python, but sometimes I can not remember all the functions I have created and how to properly use them, especially if I take a break before finishing it.
 
-! [Blackjack] (https://user-images.githubusercontent.com/113465589/190227535-5d881653-6f69-467c-97be-cdbaba45d0c1.png)
+! [Blackjack] ()
